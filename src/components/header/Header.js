@@ -6,7 +6,7 @@ const Header = () => {
     return(
         <div  className={'header'}>
             <div className={'container'}>
-                <h1>Awesome Kanban Board</h1>
+                <h1>Awesome Kanban Board (херабора)</h1>
                 <Navbar/>
             </div>
 
