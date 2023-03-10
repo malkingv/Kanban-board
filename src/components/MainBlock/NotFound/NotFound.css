@@ -1,0 +1,14 @@
+
+.not-found{
+    margin: 20vh auto;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.not-found a{
+    font-size: 25px;
+    color: #CBCBCB;
+    cursor: pointer;
+    padding-top: 10px;
+    text-decoration: none;
+}

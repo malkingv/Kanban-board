@@ -1,0 +1,31 @@
+
+.inputBlock{
+    text-align: center;
+    padding: 5px 0 1px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.visible {
+    display: none;
+}
+.addBtn {
+    border: none;
+    border-radius: 5px;
+    background-color: #EBECF0;
+    color: #5E6C84;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 4px 6px ;
+}
+.submitBtn {
+    background-color: #0079BF;
+    color: #fff;
+}
+textarea.input{
+    cursor: pointer;
+    margin: 2px 0;
+}

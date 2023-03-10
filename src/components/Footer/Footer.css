@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    width: 100%;
+    background-color: #0067A3;
+    color: #fff;
+    z-index: 1;
+    position:fixed;
+    bottom:0;
+}
+.container {
+    min-width: 1240px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    user-select: none;
+    padding: 17px 21px;
+    font-size: 18px;
+    line-height: 21px;
+}
+.container>div>span{
+    margin-right: 36px;
+}

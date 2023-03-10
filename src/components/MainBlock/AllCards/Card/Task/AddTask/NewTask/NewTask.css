@@ -1,0 +1,15 @@
+.input {
+    height: 21px;
+    resize: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 21px;
+    padding: 6px;
+    background-color: #EBECF0;
+    overflow-wrap: break-word;
+    font-family: RobotoReg, sans-serif;
+}
+.input::-webkit-scrollbar{
+    width: 0;
+}

@@ -1,0 +1,25 @@
+
+.task {
+    color: #000;
+    font-size: 18px;
+    line-height: 21px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0 ;
+    overflow-wrap: break-word;
+}
+.task a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    cursor: pointer;
+    padding: 6px;
+}
+.task a:hover{
+    color: #fff;
+}
+.task:hover{
+    background-color: 	#0079BF;
+    transition: 0.3s all ease;
+}

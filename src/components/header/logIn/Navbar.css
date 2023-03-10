@@ -1,0 +1,24 @@
+.dropdown-menu {
+    position: absolute;
+    top: 52px;
+    width: 100px;
+    transform: translateX(-45%);
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.dropdown-menu a{
+    padding: 5px 10px;
+    display: block;
+    text-decoration: none;
+    color: #000;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size 0.4s;
+}
+.dropdown-menu a:hover{
+    background-size: 100% 2px;
+    background-color: #DEDEDE;
+}
